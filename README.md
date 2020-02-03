@@ -1,5 +1,8 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=4582
 
+- Updated to patch 0.16
+- Fixed Python3 import error
+
 Conque GDB turns Vim buffers into terminal emulators, which enables you to run CLI programs from inside Vim windows.
 
 Although you can run any CLI program with Conque GDB. The main reason for this plugin is to offer a nice and complete GDB command line interface inside of Vim. See demonstration video http://www.youtube.com/watch?v=ZcSjaYSoqnc&feature=youtu.be (watch in HQ).
